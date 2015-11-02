@@ -1,0 +1,4 @@
+*.pyc
+build/
+dist/
+grunt4django.egg-info/
